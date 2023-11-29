@@ -1,0 +1,5 @@
+Statistics for the nodes: 
+number of PD locations = 1460; nNodes = 13840
+	#U = 574 (0.393151)
+	#R = 788 (0.539726)
+	#W = 98 (0.0671233)

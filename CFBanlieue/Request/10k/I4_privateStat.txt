@@ -1,0 +1,3 @@
+nPrivateV: 8062
+totalDriveTime: 590285082
+totalPassengerInVehicleTime: 935883368

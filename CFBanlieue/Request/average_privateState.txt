@@ -1,0 +1,30 @@
+nR = 10k
+loads : 
+Instance_0: 15820 	Instance_1: 15760 	Instance_2: 15776 	Instance_3: 15916 	Instance_4: 15867 	mean: 15827
+nPrivateV: 8030
+totalDriveTime: 1651.43
+averagePassengerInVehicleTime: 9.90
+nR = 50k
+loads : 
+Instance_0: 79032 	Instance_1: 79415 	Instance_2: 78905 	Instance_3: 78861 	Instance_4: 78943 	mean: 79031
+nPrivateV: 40200
+totalDriveTime: 8250.18
+averagePassengerInVehicleTime: 9.90
+nR = 100k
+loads : 
+Instance_0: 157974 	Instance_1: 157834 	Instance_2: 158652 	Instance_3: 157390 	Instance_4: 157641 	mean: 157898
+nPrivateV: 80278
+totalDriveTime: 16515.02
+averagePassengerInVehicleTime: 9.91
+nR = 200k
+loads : 
+Instance_0: 315194 	Instance_1: 315196 	Instance_2: 315562 	Instance_3: 315290 	Instance_4: 315597 	mean: 315367
+nPrivateV: 160631
+totalDriveTime: 33030.18
+averagePassengerInVehicleTime: 9.91
+nR = 300k
+loads : 
+Instance_0: 472671 	Instance_1: 474057 	Instance_2: 474197 	Instance_3: 471842 	Instance_4: 473802 	mean: 473313
+nPrivateV: 240951
+totalDriveTime: 49584.85
+averagePassengerInVehicleTime: 9.92
